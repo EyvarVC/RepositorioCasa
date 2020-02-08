@@ -1,0 +1,11 @@
+C:\Estudio\CSharp\IntentoCasa\bin\Debug\netcoreapp3.1\IntentoCasa.exe
+C:\Estudio\CSharp\IntentoCasa\bin\Debug\netcoreapp3.1\IntentoCasa.deps.json
+C:\Estudio\CSharp\IntentoCasa\bin\Debug\netcoreapp3.1\IntentoCasa.runtimeconfig.json
+C:\Estudio\CSharp\IntentoCasa\bin\Debug\netcoreapp3.1\IntentoCasa.runtimeconfig.dev.json
+C:\Estudio\CSharp\IntentoCasa\bin\Debug\netcoreapp3.1\IntentoCasa.dll
+C:\Estudio\CSharp\IntentoCasa\bin\Debug\netcoreapp3.1\IntentoCasa.pdb
+C:\Estudio\CSharp\IntentoCasa\obj\Debug\netcoreapp3.1\IntentoCasa.csprojAssemblyReference.cache
+C:\Estudio\CSharp\IntentoCasa\obj\Debug\netcoreapp3.1\IntentoCasa.AssemblyInfoInputs.cache
+C:\Estudio\CSharp\IntentoCasa\obj\Debug\netcoreapp3.1\IntentoCasa.AssemblyInfo.cs
+C:\Estudio\CSharp\IntentoCasa\obj\Debug\netcoreapp3.1\IntentoCasa.dll
+C:\Estudio\CSharp\IntentoCasa\obj\Debug\netcoreapp3.1\IntentoCasa.pdb
